@@ -1,0 +1,24 @@
+.footer-des{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-top: 10px;
+}
+
+.footer-des img{
+    margin-right: 10px;
+}
+
+.divider{
+    background: white;
+    width: 150px;
+    height: 2px;
+}
+
+a{
+    color: white;
+}
+
+html{
+    font-family: sans-serif;
+}
